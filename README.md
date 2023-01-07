@@ -80,5 +80,4 @@ The output is:
 
 
 ## Areas for improvement
-
-    A posibile way to optimize this program is through the usage of multithreading. Since the program writes takes in multiple files its input, each file could be processed using its own thread. 
+A posibile way to optimize this program is through the usage of multithreading. Since the program writes takes in multiple files its input, each file could be processed using its own thread. 
